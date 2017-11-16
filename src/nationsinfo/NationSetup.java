@@ -8,7 +8,7 @@ public class NationSetup {
 /* -Create a random name generator for the name of the nation, ruler's name, people's name, currency name,etc.
  * -Create values and basic traits for the nations goals, provide a initial currency value, figure out how to balance currency values between each other
  * -Set up that The nations won't overpower the player right at the start of the game, and that if the player doesn't do anything, the world still simualates around him
- * 
+ * -Create attribute trait list so that nations are never the same
  */
 	public static void main(String[] args) {
 
